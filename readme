@@ -1,0 +1,5 @@
+reference: 
+http://www.linuxidc.com/Linux/2015-02/113771p8.htm
+
+db local mysql 3306 root/(no password) -> database spring4_mybatis3
+
